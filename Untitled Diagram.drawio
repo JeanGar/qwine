@@ -5,16 +5,71 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JezPzgWNAS_x3AoIRCPE-1" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.batch;" vertex="1" parent="1">
-          <mxGeometry x="640" y="231.5" width="58" height="58" as="geometry" />
+          <mxGeometry x="720" y="80" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="JezPzgWNAS_x3AoIRCPE-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="193.5" y="248.5" width="50" height="41" as="geometry" />
+          <mxGeometry x="100" y="80" width="73.78" height="60.5" as="geometry" />
         </mxCell>
-        <mxCell id="JezPzgWNAS_x3AoIRCPE-3" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="190" y="160" width="57" height="50" as="geometry" />
+        <mxCell id="JezPzgWNAS_x3AoIRCPE-8" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/png,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;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="133.28" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JezPzgWNAS_x3AoIRCPE-4" value="" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="641" y="160" width="57" height="50" as="geometry" />
+        <mxCell id="JezPzgWNAS_x3AoIRCPE-12" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1.003;entryY=0.632;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="JezPzgWNAS_x3AoIRCPE-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="120" as="sourcePoint" />
+            <mxPoint x="230" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="118" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JezPzgWNAS_x3AoIRCPE-13" value="references the docker image&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="JezPzgWNAS_x3AoIRCPE-12">
+          <mxGeometry x="-0.1717" y="1" relative="1" as="geometry">
+            <mxPoint y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JezPzgWNAS_x3AoIRCPE-14" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="JezPzgWNAS_x3AoIRCPE-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="513" y="119" as="sourcePoint" />
+            <mxPoint x="710" y="116.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="513" y="120" />
+              <mxPoint x="710" y="120" />
+              <mxPoint x="710" y="119" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JezPzgWNAS_x3AoIRCPE-15" value="&lt;div&gt;deploys resources&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="JezPzgWNAS_x3AoIRCPE-14">
+          <mxGeometry x="-0.1717" y="1" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JezPzgWNAS_x3AoIRCPE-50" value="Application code" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="99.99999999999999" y="240" width="57" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JezPzgWNAS_x3AoIRCPE-51" value="Terraform code" style="image;html=1;image=img/lib/atlassian/Bitbucket_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="418.14" y="240" width="57" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JezPzgWNAS_x3AoIRCPE-52" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JezPzgWNAS_x3AoIRCPE-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="190.5" as="sourcePoint" />
+            <mxPoint x="130" y="140.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JezPzgWNAS_x3AoIRCPE-53" value="Publishes a new images" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JezPzgWNAS_x3AoIRCPE-52">
+          <mxGeometry x="0.0198" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JezPzgWNAS_x3AoIRCPE-54" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JezPzgWNAS_x3AoIRCPE-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="447" y="230" as="sourcePoint" />
+            <mxPoint x="447.14" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JezPzgWNAS_x3AoIRCPE-55" value="Applies changes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JezPzgWNAS_x3AoIRCPE-54">
+          <mxGeometry x="0.0198" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
